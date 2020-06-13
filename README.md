@@ -27,3 +27,5 @@ Apos fazer as ligacoes do arduino e gravar o Sketch, abra o LoopMidi e na Sequen
 
 Agora é só abrir sua DAW ou qualquer outro Soft Musical ou MIDI e configurar o dispositivo Midi para o LoopMidi.
 
+
+
